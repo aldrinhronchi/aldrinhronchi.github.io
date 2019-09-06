@@ -1,0 +1,44 @@
+.gradient {
+  background: linear-gradient(120deg,#8556cc,#34eb61);
+  color: #fff;
+}
+
+.btn.btn-outline-primary.btn-lg {
+  color: #03fcca;
+}
+
+.special-skill-item .icon {
+  /*text-align: center;*/
+  /*font-size: 50px;*/
+  background-color: #03fcca;
+  color: #fff;
+  /*height: 70px;*/
+  /*width: 70px;*/
+  /*line-height: 69px;*/
+  /*display: inline-block;*/
+  /*border-radius: 50%;*/
+}
+
+.btn-outline-primary {
+  color: #03fcca;
+  border-color: #03fcca;
+}
+
+.btn-outline-primary:hover {
+  color: #fff;
+  background-color: #03fcca;
+  border-color: #03fcca;
+}
+
+.btn.btn-primary.btn-block {
+  border-color: #03fcca;
+}
+
+.btn.btn-primary.btn-block.btn-lg {
+  border-color: #03fcca;
+}
+
+.btn.btn-outline-primary.btn-lg:hover {
+  color: #fff;
+}
+
